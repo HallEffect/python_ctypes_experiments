@@ -4,7 +4,7 @@ Some examples how to embed python in c++ and how to extend python using c++ by c
 
 pyinterp.cpp - Using Python/C API do [Very High Level Embedding]
 
-clib.cpp - C++ functions and classes which used to extend python (Export to example_1.py)
+clib.cpp - C++ functions and classes which are used to extend python (Export to example_1.py)
 
 example_1.py,  example_2_power.py - scripts which use C++ functions and classes from clib.cpp
 
